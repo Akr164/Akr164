@@ -14,7 +14,8 @@
 - 🧑🏻‍🏫 I am currenly learning
    - Big Data technologies : Pyspark, Apache Kafka, Apache Airflow, etc.
    - Aws Cloud Services (S3, RDS, VPC, Dynamo DB).
-   - How to architectect better data system 
+   - How to architectect better data system
+   - I am also working on ETL pipelines and currently involved in making full ETL pipeline using aws services.
 - 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/akash-rana-iiitdmj/)| [Mail](akashrana5146@gmail.com)
 - My Certifications and Courses
   - [IIT Guwahati Summer Analytics](https://certificate.givemycertificate.com/c/2fc74f37-4d30-4224-8caa-e208108a6c48)
