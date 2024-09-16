@@ -10,7 +10,7 @@
    - 🤘 You can find various data science and data analyst projects on my profile.
    - 📫 Here is my portfolio : [My Personal Portfolio](https://akr164.github.io/Portfolio.github.io/)
    - 💬 Ask me about **Python,Data Engineering, Business Analysis**
-   - ⚡ I love to play outdoor games **Football, Basketball, Cricket, Badminton, Volleyball**
+   - ⚡ I love to play outdoor games **volleyball and badminton.**
 - 🧑🏻‍🏫 I am currenly learning
    - Big Data technologies : Pyspark, Apache Kafka, Apache Airflow, etc.
    - Aws Cloud Services (S3, RDS, VPC, Dynamo DB).
